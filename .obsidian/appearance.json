@@ -1,0 +1,10 @@
+{
+  "cssTheme": "Comfort color dark",
+  "translucency": false,
+  "baseFontSize": 17,
+  "theme": "moonstone",
+  "enabledCssSnippets": [
+    "style"
+  ],
+  "accentColor": ""
+}

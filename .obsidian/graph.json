@@ -1,0 +1,51 @@
+{
+  "collapse-filter": false,
+  "search": "tag:#project  ",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "tag:#project",
+      "color": {
+        "a": 1,
+        "rgb": 2892963
+      }
+    },
+    {
+      "query": "tag:#moc",
+      "color": {
+        "a": 1,
+        "rgb": 12784403
+      }
+    },
+    {
+      "query": "tag:#fleeting",
+      "color": {
+        "a": 1,
+        "rgb": 11621088
+      }
+    },
+    {
+      "query": "tag:#cheatsheet  ",
+      "color": {
+        "a": 1,
+        "rgb": 5431378
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": -3,
+  "nodeSizeMultiplier": 1.61781496062992,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": false,
+  "centerStrength": 0.4375,
+  "repelStrength": 15.1041666666667,
+  "linkStrength": 1,
+  "linkDistance": 300,
+  "scale": 0.6757621765136719,
+  "close": false
+}

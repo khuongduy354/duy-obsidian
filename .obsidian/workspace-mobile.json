@@ -1,0 +1,166 @@
+{
+  "main": {
+    "id": "6aaaf0c2aa8046c8",
+    "type": "split",
+    "children": [
+      {
+        "id": "a5136fac0dc84afa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2ff225757beff710",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "handwritten-notes/New note.pdf"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e760d398e4f2a9db",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "a43f864db4127854",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "bec546ed22f67e16",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "4812d13e06bbaf70",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "bf8114e2353afb0c",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      },
+      {
+        "id": "e2502df2ebf3bdbd",
+        "type": "leaf",
+        "state": {
+          "type": "recent-files",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "8b081bf6cb62b319",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "9c46db00727193ff",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "handwritten-notes/New note.pdf",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "571451ebd7d425ec",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "handwritten-notes/New note.pdf",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "b454087546ce01da",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "handwritten-notes/New note.pdf"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false,
+      "handwritten-notes:Create empty handwritten note": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "2ff225757beff710",
+  "lastOpenFiles": [
+    "Atomic Ideas/test Onyx.md",
+    "handwritten-notes/New note.pdf",
+    "handwritten-notes",
+    "Excalidraw/Drawing 2024-09-28 22.51.25.excalidraw.md",
+    "Excalidraw/Drawing 2024-09-28 22.17.30.excalidraw.md",
+    "Excalidraw",
+    "Atomic Ideas/Untitled 6.md",
+    "Attachments/Ink/Writing/2024.9.28 - 22.11pm.writing",
+    "Attachments/Ink",
+    "Attachments/Ink/Writing",
+    "Atomic Ideas/rust tower crate.md",
+    "Atomic Ideas/Rust.md",
+    "Untitled.canvas",
+    "similarity between rc/refcell and mutex/similar between refcell rc vs mutex arc.md",
+    "Atomic Ideas/multithread in rust.md",
+    "Atomic Ideas/cool rust traits.md",
+    "Atomic Ideas/rust async.md",
+    "Atomic Ideas/tower.md",
+    "Atomic Ideas/async.md",
+    "Atomic Ideas/Event Demultiplexer.md",
+    "Atomic Ideas/rust associated types and generics.md"
+  ]
+}

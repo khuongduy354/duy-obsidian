@@ -1,0 +1,18 @@
+{
+  "newFileLocation": "folder",
+  "attachmentFolderPath": "Attachments",
+  "vimMode": true,
+  "promptDelete": false,
+  "newFileFolderPath": "Atomic Ideas",
+  "defaultViewMode": "source",
+  "userIgnoreFilters": [
+    "Templates/",
+    "References/",
+    "Attachments/",
+    "Glossary",
+    "Excluded/"
+  ],
+  "showUnsupportedFiles": true,
+  "trashOption": "local",
+  "alwaysUpdateLinks": true
+}
